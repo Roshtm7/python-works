@@ -26,5 +26,18 @@ def get_person(**kwargs):
 get_person(name="hari",w_place="tvm",n_place="kakkanad")
 
 
+def flat_list(*args):
+    flat=[]
+    for arg in args:
+        if isinstance(arg,list):
+            flat.extend(flat_list(*arg))
+        else:
+            flat.append(arg)
+    return flat
+print(flat_list((10,20,[00,200],[1000,[2000,3000]])))
+
+
+
+
 
 
