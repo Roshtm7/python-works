@@ -29,3 +29,10 @@ child_instance.marriage_with()
 
 
 
+# inheritance
+# polymorphism(more than one form)
+#     method overloading(*args,**kwargs)
+#     method overriding
+# abstraction
+#     hiding implimentation details
+# encapsulation
