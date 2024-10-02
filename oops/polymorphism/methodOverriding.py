@@ -36,3 +36,30 @@ child_instance.marriage_with()
 # abstraction
 #     hiding implimentation details
 # encapsulation
+
+
+
+# OOPS
+# class object
+# class (blueprint, design pattern, template)
+# class ClasName:
+#attributes
+#methods
+# OOPS
+# class object
+# class (blueprint, design pattern, template)
+# self, super ()
+# reference=ClassName()
+# attributes initalize
+# int__()
+# object string representation
+# __str_（）
+# inheritance
+#single #multiple
+# multilevel
+# polymorphism
+#methodoverloading （*args，**kwargs）
+# method overriding()
+# abstraction
+# ABC,@abstractionmethod
+# __attributename
